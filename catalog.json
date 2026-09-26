@@ -238,5 +238,113 @@
     "image": "assets/work-30.png",
     "format": "OBJ",
     "bytes": 13574322
+  },
+  {
+    "id": "flat-image-01",
+    "kind": "image",
+    "title": "复古赛车",
+    "category": "平面作品",
+    "image": "assets/image-01.png",
+    "format": "PNG",
+    "bytes": 21433
+  },
+  {
+    "id": "flat-image-02",
+    "kind": "image",
+    "title": "变色龙",
+    "category": "平面作品",
+    "image": "assets/image-02.png",
+    "format": "PNG",
+    "bytes": 18958
+  },
+  {
+    "id": "flat-image-03",
+    "kind": "image",
+    "title": "彩绘章鱼",
+    "category": "平面作品",
+    "image": "assets/image-03.png",
+    "format": "PNG",
+    "bytes": 23834
+  },
+  {
+    "id": "flat-image-04",
+    "kind": "image",
+    "title": "茶壶",
+    "category": "平面作品",
+    "image": "assets/image-04.png",
+    "format": "PNG",
+    "bytes": 32412
+  },
+  {
+    "id": "flat-image-05",
+    "kind": "image",
+    "title": "跑鞋",
+    "category": "平面作品",
+    "image": "assets/image-05.png",
+    "format": "PNG",
+    "bytes": 35733
+  },
+  {
+    "id": "flat-image-06",
+    "kind": "image",
+    "title": "彩绘骑士",
+    "category": "平面作品",
+    "image": "assets/image-06.png",
+    "format": "PNG",
+    "bytes": 30256
+  },
+  {
+    "id": "flat-image-07",
+    "kind": "image",
+    "title": "太空园丁",
+    "category": "平面作品",
+    "image": "assets/image-07.png",
+    "format": "PNG",
+    "bytes": 29582
+  },
+  {
+    "id": "flat-image-08",
+    "kind": "image",
+    "title": "狐狸探险家",
+    "category": "平面作品",
+    "image": "assets/image-08.png",
+    "format": "PNG",
+    "bytes": 29836
+  },
+  {
+    "id": "flat-image-09",
+    "kind": "image",
+    "title": "棋士雕像",
+    "category": "平面作品",
+    "image": "assets/image-09.png",
+    "format": "PNG",
+    "bytes": 28324
+  },
+  {
+    "id": "flat-image-10",
+    "kind": "image",
+    "title": "黑猫",
+    "category": "平面作品",
+    "image": "assets/image-10.png",
+    "format": "PNG",
+    "bytes": 14178
+  },
+  {
+    "id": "flat-image-11",
+    "kind": "image",
+    "title": "孔雀",
+    "category": "平面作品",
+    "image": "assets/image-11.png",
+    "format": "PNG",
+    "bytes": 64034
+  },
+  {
+    "id": "flat-image-12",
+    "kind": "image",
+    "title": "盆景",
+    "category": "平面作品",
+    "image": "assets/image-12.png",
+    "format": "PNG",
+    "bytes": 28978
   }
 ]
