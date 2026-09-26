@@ -346,5 +346,13 @@
     "image": "assets/image-12.png",
     "format": "PNG",
     "bytes": 28978
+  },
+  {
+    "id": "387053aa-cfd6-4bdf-8e79-9be3e4a6a507",
+    "title": "狐狸探险家",
+    "category": "图像创作",
+    "image": "assets/work-31.png",
+    "format": "OBJ",
+    "bytes": 15512381
   }
 ]
